@@ -1,6 +1,1 @@
-$ cat solution.txt
-sokratisklon.github.io
-# Ensure the URL exists
-$ curl --output /dev/null --silent --head --fail sorkatisklon.github.io && \
-echo "URL exists" || echo "URL does not exist"
-URL exists
+
