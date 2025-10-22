@@ -17,3 +17,5 @@ byte4: εκανα find και παρατήρησα ότι το cup.txt είνα�
    έτρεξα ./maze/left/right/8/cup.txt και μου έβγαλε το string
 
 byte5:
+
+byte6: έκανα unzip -p byte6.zip
