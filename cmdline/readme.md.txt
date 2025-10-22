@@ -19,3 +19,24 @@ byte4: εκανα find και παρατήρησα ότι το cup.txt είνα�
 byte5:
 
 byte6: έκανα unzip -p byte6.zip
+
+Byte7: 
+
+Byte8: εκανα ls, Πηρα carriage_return.txt, και ετρεξα pico carriage_return.txt, μεσα στα σχολια βρηκα το string 
+
+Byte9: ετρεξα ls, πηρα -, ετρξα cat ./- και πηρα το string
+
+Byte10: εκανα ls, Πηρα i_wonder_what_this_does  names.txt, κοιταξα το (i_wonder_what_this_does) τελικα δεν το χρειαζομουν, και μετα απο πολυ ψαξιμο ετρεξα την εντολη $ sort names.txt | head -n 42 | tail -n 1
+
+Byte11: εκανα ls
+              sort births.txt
+              uniq --help
+              sort births.txt | uniq -c | sort -nr | head -n 1
+
+Byte12: Ετρεξα find
+
+Byte13: ετρεξα ls, μετα cd repo και τελος git log
+
+Byte14: 
+
+Byte15: 
