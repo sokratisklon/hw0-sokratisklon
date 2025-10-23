@@ -16,7 +16,8 @@ byte3: έβαλα diff shakespeare.txt shakespeare.modified.txt
 byte4: εκανα find και παρατήρησα ότι το cup.txt είναι σε αυτό το filepath (./maze/left/right/8/cup.txt)
    έτρεξα ./maze/left/right/8/cup.txt και μου έβγαλε το string
 
-byte5:
+byte5: εκανα mkdir -p /tmp/byte5dir, ώστε μετα να κανω copy ( cp ~/byte5.c /tmp/byte5dir/) και μεταγλωττισή ( gcc byte5.c -o byte5 ). Όμως επαιρνα αυτό το μυνημα προσαθωντας να τρεξω το ./byte5
+         Usage: ./byte5 <SDI> . Το ελυσα αυτό με την εντολη ./byte sdi2500086
 
 byte6: έκανα unzip -p byte6.zip
 
