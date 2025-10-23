@@ -21,7 +21,7 @@ byte5: εκανα mkdir -p /tmp/byte5dir, ώστε μετα να κανω copy (
 
 byte6: έκανα unzip -p byte6.zip
 
-Byte7: 
+Byte7: Προσπαθησα να το μεταγλωτισω εκει που ηταν, δεν γινοταν. Αρα δημιουργησα νέο φακελο (mkdir /tmp/byte7dir) στον οποιο εκανα αντιγραφη το tar αρχειο ($ cp byte7.tar.gz /tmp/byte7dir) και μεταγλωτιση ($ tar -xzf byte7.tar.gz) ώστε τελικα να τρεξω cat byte7.txt και να παρω το string
 
 Byte8: εκανα ls, Πηρα carriage_return.txt, και ετρεξα pico carriage_return.txt, μεσα στα σχολια βρηκα το string 
 
