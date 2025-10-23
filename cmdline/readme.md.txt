@@ -38,6 +38,6 @@ Byte12: Ετρεξα find
 
 Byte13: ετρεξα ls, μετα cd repo και τελος git log
 
-Byte14: 
+Byte14: fff
 
 Byte15: 
