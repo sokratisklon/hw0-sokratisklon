@@ -10,9 +10,9 @@ byte6: unzipping_is_a_piece_of_cake
 byte 7: tar_jokes_cant_stick
 byte 8: cant_keep_secrets_from_you 
 byte 9: filepaths_are_handy
-byte 10 : Althea
+byte 10 :Althea
 byte 11: Peta
-byte 12: /.cache/which_command_is_the_best/tuxsay
+byte 12:which_command_is_the_best
 byte13: descriptive_git_commit_messages_are_great
 Byte14: Όχι, αφου το Git διατηρεί όλα τα commits
 Byte15: :
