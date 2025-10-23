@@ -1,1 +1,2 @@
-sokratisklon.github.io
+$ cat solution.txt
+sokratisklon.github.io/sokratisklon/
