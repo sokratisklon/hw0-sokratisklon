@@ -4,12 +4,11 @@ byte0: Αρχικά έτρεξαα cat και είδα ότι ο τελευτα�
 
 byte1:Έγραψα την παρακάτω εντολή
       man supercalifragilisticexpialidocious, 
-      και βγήκα ότι το string είναι in_every_job_that_must_be_done_there_is_an_element_of_fun
-
+      και βγήκα το strin
 byte2:Αρχικά ls, ( byte2@ip-172-31-37-131:~$ ls 
                    shakespeare.txt)
        Μετά ( $ grep -i "will find" shakespeare.txt)
-       και βγήκα το string
+       και βρήκα το string
 
 byte3: έβαλα diff shakespeare.txt shakespeare.modified.txt
 
@@ -38,6 +37,6 @@ Byte12: Ετρεξα find
 
 Byte13: ετρεξα ls, μετα cd repo και τελος git log
 
-Byte14: 
+Byte14: εκανα ls και μετα cd ./repo. Μεσα στο repo εκανα git log -p και κατεβηκα αρκετα μεχρι που βρηκα το string
 
 Byte15: 
