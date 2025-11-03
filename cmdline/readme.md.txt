@@ -39,4 +39,4 @@ Byte13: ετρεξα ls, μετα cd repo και τελος git log
 
 Byte14: εκανα ls και μετα cd ./repo. Μεσα στο repo εκανα git log -p και κατεβηκα αρκετα μεχρι που βρηκα το string
 
-Byte15: 
+Byte15: Δεν προλαβα να το λυσω
