@@ -39,6 +39,20 @@ Byte13: ετρεξα ls, μετα cd repo και τελος git log
 
 Byte14: εκανα ls και μετα cd ./repo. Μεσα στο repo εκανα git log -p και κατεβηκα αρκετα μεχρι που βρηκα το string
 
-Byte15: Δεν προλαβα να το λυσω
+Byte15: Μετα από αρκετη ωρα που trial and error δοκιμασα να κανω ένα πρόγραμμα brute force, το οποιο μου εδωσε το Pin αλλα και το string όπως φαινεται παρακατω
+ 
+          byte15@ip-172-31-37-131:~$ for i in $(seq -w                      0000 9999); do
+            out=$(./vault $i 2>&1)
+       if ! echo "$out" | grep -q "Incorrect pin"; then
+         echo "FOUND: $i"
+         echo "$out"
+         break
+        fi
+     done
+
+     FOUND: 1337
+     The vault is now open, your secret is:        congratulations_you_have_completed_all_challenges
+
+
 
 *****Επειδή τα ειχα μπερδεψει όταν τα ελυνα και δεν ειχα ένα byte ανα commit, τα εσβησα και ξαναεκανα τα commits, προσθετωντας ένα byte ανα commit
