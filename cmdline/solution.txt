@@ -1,17 +1,17 @@
 $ cat solution.txt
-byte0:you_just_mastered_changing_directories
-byte1:in_every_job_that_must_be_done_there_is_an_element_of_fun
-byte2:grep_and_you_will_find
+byte0:
+byte1:
+byte2:
 byte3
-byte4:the_triwizard_cup_is_now_yours
-byte5:sdi2500086_1761202638_1018905332_88_197_75_183_59256_22
-byte6: unzipping_is_a_piece_of_cake
-byte 7: tar_jokes_cant_stick
-byte 8: cant_keep_secrets_from_you 
-byte 9: filepaths_are_handy
-byte 10 :Althea
-byte 11: Peta
-byte 12:which_command_is_the_best
-byte13: descriptive_git_commit_messages_are_great
-Byte14: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
-Byte15: :
+byte4:
+byte5:
+byte6: 
+byte 7:
+byte 8: 
+byte 9:
+byte 10x`:
+byte 11: 
+byte 12
+byte13: 
+Byte14: 
+Byte15: 
