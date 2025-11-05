@@ -1,5 +1,5 @@
 $ cat solution.txt
-byte0:
+byte0:you_just_mastered_changing_directories
 byte1:
 byte2:
 byte3
