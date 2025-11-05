@@ -5,7 +5,7 @@ byte2:grep_and_you_will_find
 byte3:programmers
 byte4:the_triwizard_cup_is_now_yours
 byte5:sdi2500086_1761202638_1018905332_88_197_75_183_59256_22
-byte6: 
+byte6: unzipping_is_a_piece_of_cake
 byte 7:
 byte 8: 
 byte 9:
